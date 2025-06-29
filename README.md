@@ -1,10 +1,7 @@
-# Hi, I'm Araceli Vejar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<h1 align="center">I'm <a href="https://github.com/Aryagm">Araceli Vejar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<Br>
+<h1>About Me! 😎</h1>
 
-<!--
-**aracelivejar/aracelivejar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p>
-Here are some ideas to get you started:
-### 🤵 About Me:
 * 🏫: I am a Computer Systems Engineering student
 * 🔭: I am working on personal projects
 * 🌱: I am learning Python, SQL, and Django 🧠💻🤖
@@ -12,8 +9,12 @@ Here are some ideas to get you started:
 * 💬: Let’s talk about AI 📊📈🤖🧠
 * 😄: My favorite programming language: Music 🎹
 * ⚡: Fun fact: With music on repeat, I'm often found writing on a loop. 🎹
+  
+<hr>
+<Br>
 
+<Br>
 </p>
 
 
--->
+

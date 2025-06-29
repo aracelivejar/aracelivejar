@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Araceli Vejar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <!--
 **aracelivejar/aracelivejar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p>
 Here are some ideas to get you started:
+### 🤵 About Me:
+* 🏫: I am a Computer Systems Engineering student
+* 🔭: I am working on personal projects
+* 🌱: I am learning Python, SQL, and Django 🧠💻🤖
+* 🤔: I’m looking for help with anything I am currently learning! 😅
+* 💬: Let’s talk about AI 📊📈🤖🧠
+* 😄: My favorite programming language: Music 🎹
+* ⚡: Fun fact: With music on repeat, I'm often found writing on a loop. 🎹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</p>
+
+
 -->

@@ -2,7 +2,7 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-* 🏫: I am a Computer Science student
+* 🏫: I am a Computer Engineering Student 
 * 🔭: I am working on personal projects
 * 🌱: I am learning Python, SQL, and Django 🧠💻🤖
 * 🤔: I’m looking for help with anything I am currently learning! 😅
